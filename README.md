@@ -7,7 +7,9 @@
 ### Docs:
 * https://docs.google.com/document/d/1ODRPnxsJx7SRbvtp4rJiuCRI67w6JEmzv3yZS1Kzufc/edit
 * https://docs.google.com/document/d/1woh16-Ey-yjVLFyVuOTLvBM7mblT_HP879l9dV-SJ4U/edit
-  
+
+### Clases:
+* [2C 2023](https://www.youtube.com/playlist?list=PLLJ03vtxpqKjYm_TcLfS4HCoYYAN67X5e)
 ### Links:
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:71:12)
 
