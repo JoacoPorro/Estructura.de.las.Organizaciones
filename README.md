@@ -2,7 +2,7 @@
 
 ### Drives:
  https://drive.google.com/drive/folders/112iXDEVfy6ZD-FCUbMRuGqtjlV5LTL_o
-2. https://drive.google.com/drive/folders/1wM-G-zeoNetOhcVkycWNDE9D4cAlqDwT
+ https://drive.google.com/drive/folders/1wM-G-zeoNetOhcVkycWNDE9D4cAlqDwT
 :tada:
 
 ### Resumenes:
