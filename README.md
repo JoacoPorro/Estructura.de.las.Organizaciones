@@ -4,6 +4,10 @@
 1. https://drive.google.com/drive/folders/112iXDEVfy6ZD-FCUbMRuGqtjlV5LTL_o
 2. https://drive.google.com/drive/folders/1wM-G-zeoNetOhcVkycWNDE9D4cAlqDwT
 
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
+
 ### Resumenes:
 1. [Resumen Completo](https://drive.google.com/file/d/1EUyREbOOqErKHChpCoyluvj3-f18fUKo/view?usp=sharing)
 2. [Resumen Parte 1](https://docs.google.com/document/d/1ODRPnxsJx7SRbvtp4rJiuCRI67w6JEmzv3yZS1Kzufc/edit) - [Parte 2](https://docs.google.com/document/d/1woh16-Ey-yjVLFyVuOTLvBM7mblT_HP879l9dV-SJ4U/edit)
