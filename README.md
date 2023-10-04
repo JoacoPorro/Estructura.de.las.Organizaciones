@@ -1,4 +1,4 @@
-## Material Estructura de las Organizaciones FIUBA
+# Material Estructura de las Organizaciones FIUBA
 
 ### Drives:
 * https://drive.google.com/drive/folders/1wM-G-zeoNetOhcVkycWNDE9D4cAlqDwT
