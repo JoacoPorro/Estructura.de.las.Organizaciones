@@ -6,6 +6,7 @@
 * https://drive.google.com/drive/folders/1dT3BSYcgQQE1UBeVw08oUcD4UymRm-uD
 
 ### Resumenes:
+* [Resumen](https://drive.google.com/file/d/1acClfa-7YV3_pYCyCFoDLMqyfVzP9j_-/view?usp=drive_link)
 * [Resumen Completo](https://drive.google.com/file/d/1EUyREbOOqErKHChpCoyluvj3-f18fUKo/view?usp=sharing)
 * [Resumen Parte 1](https://docs.google.com/document/d/1ODRPnxsJx7SRbvtp4rJiuCRI67w6JEmzv3yZS1Kzufc/edit) - [Parte 2](https://docs.google.com/document/d/1woh16-Ey-yjVLFyVuOTLvBM7mblT_HP879l9dV-SJ4U/edit)
 
