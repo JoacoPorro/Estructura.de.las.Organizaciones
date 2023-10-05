@@ -14,7 +14,7 @@
 * [2C 2023](https://www.youtube.com/playlist?list=PLLJ03vtxpqKjYm_TcLfS4HCoYYAN67X5e)
 
 ### Links:
-* [Parciales y Finales Viejos](https://drive.google.com/file/d/1Z6eMOA8yt8OYHCGHsf0-noSIyZyWwpFE/view?usp=drive_link)
+<!-- * [Parciales y Finales Viejos](https://drive.google.com/file/d/1Z6eMOA8yt8OYHCGHsf0-noSIyZyWwpFE/view?usp=drive_link) -->
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:71:12)
 
 ### Deja **⭐** Arriba
