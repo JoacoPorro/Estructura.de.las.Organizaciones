@@ -17,6 +17,7 @@
 
 ### Links:
 * [Preguntas Parcial Parte 1](https://drive.google.com/file/d/1IuGfJ5j3Dk8RWvFO5JiJhOWGNYOqHdUa/view?usp=drive_link) - [Parte 2](https://drive.google.com/file/d/17ZoHKqAyo6aaZfIVT_IncphSS5rxmp0r/view?usp=drive_link) (no se de que año son)
+* [Flashcards](https://www.brainscape.com/p/5GIBY-LH-CVI1O)
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:71:12)
 <!-- * [Parciales y Finales Viejos](https://drive.google.com/file/d/1Z6eMOA8yt8OYHCGHsf0-noSIyZyWwpFE/view?usp=drive_link) -->
 
