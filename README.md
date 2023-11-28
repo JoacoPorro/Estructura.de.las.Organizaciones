@@ -19,7 +19,7 @@
 ### Links:
 * [Primer Parcial 2023 2C](https://docs.google.com/document/d/10AaOF4EqJ_410Bc-Ev_6m-sY-n7DloWolBsycQfQecE/edit)
 * [Preguntas Parcial Parte 1](https://drive.google.com/file/d/1IuGfJ5j3Dk8RWvFO5JiJhOWGNYOqHdUa/view?usp=drive_link) - [Parte 2](https://drive.google.com/file/d/17ZoHKqAyo6aaZfIVT_IncphSS5rxmp0r/view?usp=drive_link) (no se de que año son)
-* [Flashcards](https://www.brainscape.com/p/5GIBY-LH-CVI1O)
+* [Flashcards Primer Parcial](https://www.brainscape.com/p/5GIBY-LH-CVI1O) - [Flashcards Segundo Parcial](https://www.brainscape.com/p/5GSA7-LH-CW5H0)
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:71:12)
 <!-- * [Parciales y Finales Viejos](https://drive.google.com/file/d/1Z6eMOA8yt8OYHCGHsf0-noSIyZyWwpFE/view?usp=drive_link) -->
 
